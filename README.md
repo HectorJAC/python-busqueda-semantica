@@ -37,4 +37,5 @@ Para ejecutar el proyecto, se deben seguir los siguientes pasos:
 4. Esperar a que el sistema devuelva los resultados.
 5. Se creara una archivo ``embeddings_visualization.png`` con la visualización de **10** de los resultados obtenidos.  
 
-### Enlace al vídeo explicativo
+### Enlace al vídeo explicativo  
+https://outlook.office.com/host/377c982d-9686-450e-9a7c-22aeaf1bc162/7211f19f-262a-42eb-a02e-289956491741

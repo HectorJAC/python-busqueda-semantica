@@ -23,8 +23,5 @@ with open(filename, 'r') as f:
 # Convertir a un DataFrame de pandas
 df = pd.DataFrame(articles)
 
-# Mostrar los primeros artículos para verificar
-print(df.head())
-
 # Guardar el DataFrame en un nuevo archivo CSV
 df.to_csv('./data/arxiv_sample.csv', index=False)

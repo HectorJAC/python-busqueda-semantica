@@ -23,7 +23,7 @@ print("Datos cargados")
 # Paso 2: Preprocesamiento de Datos
 print("Preprocesamiento de datos...")
 def preprocess_text(text):
-    text = text.lower()  # Convertir a minúsculas
+    text = text.lower()
     return text
 
 df['processed_abstract'] = df['abstract'].apply(preprocess_text)
