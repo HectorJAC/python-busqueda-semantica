@@ -38,4 +38,17 @@ Para ejecutar el proyecto, se deben seguir los siguientes pasos:
 5. Se creara una archivo ``embeddings_visualization.png`` con la visualización de **10** de los resultados obtenidos.  
 
 ### Enlace al vídeo explicativo  
-https://outlook.office.com/host/377c982d-9686-450e-9a7c-22aeaf1bc162/7211f19f-262a-42eb-a02e-289956491741
+https://outlook.office.com/host/377c982d-9686-450e-9a7c-22aeaf1bc162/7211f19f-262a-42eb-a02e-289956491741  
+
+### Enlaces a los Google Collab de las demas clases  
+
+**Descarga de archivo csv**  
+https://colab.research.google.com/drive/1Uj8_2E6NkxffQOzsXdr1yBh-41SMgPUK  
+
+**Ejemplos y Practia del modelo Word2Vec**  
+https://colab.research.google.com/drive/1IIn0bIfAXKhsaP501WJZ-vyXa-tK51Df#scrollTo=dUVDMLt1NJDC  
+
+**Videos explicativos de las demas practicas**  
+https://miucateciedu-my.sharepoint.com/:f:/g/personal/20190821_miucateci_edu_do/Esrb48hnkDZOn8hPJqbGtLIBLtN-LwIRKz-Aa4AsDbYN5w?e=suVBqI
+
+
